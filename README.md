@@ -15,5 +15,5 @@ O script varre uma pasta específica e os move para suas respectivas subpastas
 
 1) Instale e configure o Python em seu computador.
 2) Baixe o arquivo `ordenar.py`.
-3) 3) Abra o arquivo `ordenar.py` e altere o valor da variável "pasta" para o caminho que você deseja organizar. Lembre-se de colocar o seu nome de usuário no caminho. Exemplo: `pasta = r"C:\Users\SeuUsuario\Artigos"`.
+3) Abra o arquivo `ordenar.py` e altere o valor da variável "pasta" para o caminho que você deseja organizar. Lembre-se de colocar o seu nome de usuário no caminho. Exemplo: `pasta = r"C:\Users\SeuUsuario\Artigos"`.
 4) Execute o script no terminal.
